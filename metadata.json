@@ -1,0 +1,6 @@
+{
+  "name": "One Calculator",
+  "description": "An all-in-one calculator suite featuring Scientific, Programmer (Hex/Bin), Financial, Unit Converter, Matrix, Graphing, and Python FastAPI backend engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
